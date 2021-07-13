@@ -1,17 +1,17 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG
+# (c) @Cinemafactory1
 
 class Translation(object):
     
     START_TEXT = """<b><u>Hey {} How Are You!!</b></u>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>this bot only working @Cinemafactory1 group....😉
 
 You don't add your group and @Cinemafactory1
 
-For More Details Click Help Button Below..
+For more information contact @Kaztrouyri..
 @Cinemafactory1
-</i>"""    
+</u>"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
