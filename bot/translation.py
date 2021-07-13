@@ -4,7 +4,7 @@
 
 class Translation(object):
     
-    START_TEXT = """<b><u>Hey {} How Are You!!</b></u>
+    START_TEXT = """<i><b>Hey {} How Are You!!</i></u>
 <i>this bot only working @Cinemafactory1 group....😉
 
 You don't add your group and @Cinemafactory1
@@ -14,7 +14,7 @@ For more information contact @Kaztrouyri..
 </u>"""    
     
     HELP_TEXT = """
-<b><i><u>How To Use Me!?</u></i></b>
+<b><i><u>How To Use Me!?</b></u></i>
 
 <i>
 -> Add Me To Any Group And Make Me Admin
