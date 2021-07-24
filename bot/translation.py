@@ -4,46 +4,26 @@
 
 class Translation(object):
     
-    START_TEXT = """<i><b>Hey {} How Are You!!</i></u>
-<i>this bot only working @Cinemafactory1 group....😉
+    START_TEXT = """<b>Hai {}!!</b>
+<i>Am ♦️ READ THIS INSTRUCTION ♦️
 
-You don't add your group and @Cinemafactory1
+🗣 സിനിമ ഫാക്ടറിയിൽ ചോദിക്കുന്ന സിനിമകൾ നിങ്ങൾക്ക് ലഭിക്കണം എന്നുണ്ടെങ്കിൽ നിങ്ങൾ താഴെ കൊടുത്തിട്ടുള്ള ചാനലിൽ ജോയിൻ ചെയ്യണം. ജോയിൻ ചെയ്ത ശേഷം വീണ്ടും ഗ്രൂപ്പിൽ പോയി ആ ബട്ടനിൽ അമർത്തിയാൽ നിങ്ങൾക്ക് ഞാൻ ആ സിനിമ പ്രൈവറ്റ് ആയി അയച്ചു തരുന്നതാണ്..😍
 
-For more information contact @Kaztrouyri..
-@Cinemafactory1
-</u>"""    
+🗣 In Order To Get The Movie Requested By You in Our Groups, You Will Have To Join Our Official Channel First. After That, Try Accessing That Movie Again From Our Group. I'll Send You That Movie Privately 🙈
+
+👇 JOIN THIS CHANNEL & TRY 👇
+
+[https://t.me/Cinemafactory1]...</i>"""
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</b></u></i>
 
 <i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
-</i>
+-> this bot only working @Cinemafactory1
+...</i>"""
 
-<b>Bot Commands (Works Only In Groups) :</b>
+ 
 
-    -> <code>/add chat_id</code>
-                OR                  - To Connect A Group With A Channel (Bot Should Be Admin With Full Previlages In Both Group And Channel)
-     <code>/add @Username</code>
-     
-    -> <code>/del chat_id</code>
-                OR                  - To disconnect A Group With A Channel
-     <code>/del @Username</code>
-     
-    -> <code>/delall</code>  - This Command Will Disconnect All Connected Channel With The Group And Deletes All Its File From DB
-    
-    -> <code>/settings</code> -  This Command Will Display You A Settings Pannel Instance Which Can Be Used To Tweek Bot's Settings Accordingly
-
-            -> <code>Channel</code> - Button Will Show You All The Connected Chats With The Group And Will Show Buttons Correspnding To There Order For Furthur Controls
-            
-            -> <code>Filter Types</code> - Button Will Show You The 3 Filter Option Available In Bot... Pressing Each Buttons Will Either Enable or Disable Them And This Will Take Into Action As Soon As You Use Them Without The Need Of A Restart
-
-            -> <code>Configure</code> - Button Will Helps You To Change No. of Pages/ Buttons Per Page/ Total Result Without Acutally Editing The Repo... Also It Provide Option To Enable/Disable For Showing Invite Link In Each Results
-            
-            -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
-            
-@Cinemafactory1
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
